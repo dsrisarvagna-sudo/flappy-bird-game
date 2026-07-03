@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird Deluxe
+# 🐦 Flappy Bird 
 
 A modern Flappy Bird clone developed using **HTML5 Canvas, CSS, and JavaScript**.
 
