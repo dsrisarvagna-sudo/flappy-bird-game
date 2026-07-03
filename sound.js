@@ -1,8 +1,8 @@
 console.log("sound.js loaded");
 
-const jumpSound  = new Audio("./sounds/jump.wav");
-const scoreSound = new Audio("./sounds/score.wav");
-const hitSound   = new Audio("./sounds/hit.wav");
+const jumpSound  = new Audio("jump.wav");
+const scoreSound = new Audio("score.wav");
+const hitSound   = new Audio("hit.wav");
 
 jumpSound.volume  = 0.6;
 scoreSound.volume = 0.7;
