@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flappy Bird  | Made by Sarvagna</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            user-select: none;
+            background: #000;
+        }
+
+        canvas {
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+
+    <canvas id="gameCanvas"></canvas>
+
+    <!-- Load order matters: sound.js MUST come before game.js -->
+    <script src="JS/bird.js"></script>
+    <script src="JS/pipe.js"></script>
+    <script src="JS/coin.js"></script>
+    <script src="JS/sound.js"></script>
+    <script src="JS/game.js"></script>
+
+</body>
+
+</html>
