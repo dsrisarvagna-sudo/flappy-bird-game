@@ -80,25 +80,7 @@ git clone https://github.com/YOUR_USERNAME/flappy-bird-deluxe.git
 
 Or use the **Live Server** extension in VS Code.
 
----
 
-## 📷 Screenshots
-
-> Add screenshots here after uploading them.
-
-### Start Screen
-
-(Add Image)
-
-### Gameplay
-
-(Add Image)
-
-### Game Over
-
-(Add Image)
-
----
 
 ## 💡 Future Improvements
 
