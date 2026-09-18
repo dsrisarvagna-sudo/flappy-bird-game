@@ -66,22 +66,6 @@ FlappyBird/
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository
-
-```
-git clone https://github.com/YOUR_USERNAME/flappy-bird-deluxe.git
-```
-
-2. Open the project folder.
-
-3. Open **index.html** in your browser.
-
-Or use the **Live Server** extension in VS Code.
-
-
-
 ## 💡 Future Improvements
 
 - Mobile Support
@@ -98,7 +82,5 @@ Or use the **Live Server** extension in VS Code.
 **D. Sri Sarvagna**
 
 Computer Science Engineering Student
-
-Built with ❤️ using JavaScript.
 
 ---
